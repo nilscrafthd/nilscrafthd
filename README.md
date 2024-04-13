@@ -1,6 +1,6 @@
 <!-- ## Hi! I'm Igor Kowalczyk 🖐️ -->
 
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Nils-afk avatar" src="[https://github.com/nils-afk](https://avatars.githubusercontent.com/u/97766170?v=4)">
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Nils-afk avatar" src="https://avatars.githubusercontent.com/u/97766170?v=4)">
 
 ## <img alt="Waving hand" width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif"> Hi! I'm NilsDev
 
