@@ -14,7 +14,7 @@
 <p align="left">
 <code><a href="https://twitter.com/GamerArmyL" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/twitter.svg" alt="Twitter logo" width="30" height="30"/></a></code>
 <code><a href="https://discord.com/users/954851027188842526" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/discord.svg" alt="Discord logo" width="30" height="30"/></a></code>
-<code><a href="https://www.youtube.com/c/RobloxCraftHD" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/youtube.svg" alt="YouTube logo" width="30" height="30"/></a></code>
+<code><a href="https://www.youtube.com/@RobloxCraftHD" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/youtube.svg" alt="YouTube logo" width="30" height="30"/></a></code>
 <code><a href="https://open.spotify.com/user/313f6kzmredixvc4ymhcscqcrpsq?si=e9d3272307f84b72" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/spotify.svg" alt="Spotify logo" width="30" height="30"/></a></code>
 </p>
 
