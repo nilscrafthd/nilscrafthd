@@ -10,6 +10,20 @@
 <a href="https://discord.com/users/954851027188842526">
  <img alt="Discord activity card" src="https://lanyard.cnrad.dev/api/954851027188842526" align="right" />
 </a>
+<iframe
+    src="https://linkcord.linkgames.de/api/v3/widget/{your_id}?type=spotify_large"
+    width="600"
+    height="150"
+    allowtransparency="true"
+    frameborder="0"
+/>
+<iframe
+    src="https://linkcord.linkgames.de/api/v3/widget/{your_id}?type=vsc"
+    width="600"
+    height="150"
+    allowtransparency="true"
+    frameborder="0"
+/>
 
 <p align="left">
 <code><a href="https://twitter.com/GamerArmyL" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/twitter.svg" alt="Twitter logo" width="30" height="30"/></a></code>
