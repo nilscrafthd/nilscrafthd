@@ -47,6 +47,11 @@
 
 **...and many others!**
 
-[![Discord Aktivitätskarte](https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=spotify_large)](https://discord.com/users/954851027188842526)
-
-[![Discord Aktivitätskarte](https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=vsc)](https://discord.com/users/954851027188842526)
+<div>
+  <a href="https://discord.com/users/954851027188842526">
+    <img alt="Discord Aktivitätskarte" src="https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=spotify_large" align="right" />
+  </a>
+  <a href="https://discord.com/users/954851027188842526">
+    <img alt="Discord Aktivitätskarte" src="https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=vsc" align="right" />
+  </a>
+</div>
