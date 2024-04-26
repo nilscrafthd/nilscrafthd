@@ -10,12 +10,6 @@
 <a href="https://discord.com/users/954851027188842526">
  <img alt="Discord activity card" src="https://lanyard.cnrad.dev/api/954851027188842526" align="right" />
 </a>
-<a href="https://discord.com/users/954851027188842526">
- <img alt="Discord activity card" src="https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=spotify_large" align="right" />
-</a>
-<a href="https://discord.com/users/954851027188842526">
- <img alt="Discord activity card" src="https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=vsc" align="right" />
-</a>
 
 <p align="left">
 <code><a href="https://twitter.com/GamerArmyL" target="_blank"><img src="https://github.com/igorkowalczyk/igorkowalczyk/blob/master/src/images/readme/svg/twitter.svg" alt="Twitter logo" width="30" height="30"/></a></code>
@@ -52,3 +46,11 @@
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" height="30" width="30" alt="Eslint logo"/></code>
 
 **...and many others!**
+
+####Discord
+<a href="https://discord.com/users/954851027188842526">
+ <img alt="Discord activity card" src="https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=spotify_large" align="right" />
+</a>
+<a href="https://discord.com/users/954851027188842526">
+ <img alt="Discord activity card" src="https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=vsc" align="right" />
+</a>
