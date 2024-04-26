@@ -46,12 +46,3 @@
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" height="30" width="30" alt="Eslint logo"/></code>
 
 **...and many others!**
-
-<div>
-  <a href="https://discord.com/users/954851027188842526">
-    <img alt="Discord Aktivitätskarte" src="https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=spotify_large" align="right" />
-  </a>
-  <a href="https://discord.com/users/954851027188842526">
-    <img alt="Discord Aktivitätskarte" src="https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=vsc" align="right" />
-  </a>
-</div>
