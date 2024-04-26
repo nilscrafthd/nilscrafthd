@@ -11,14 +11,14 @@
  <img alt="Discord activity card" src="https://lanyard.cnrad.dev/api/954851027188842526" align="right" />
 </a>
 <iframe
-    src="https://linkcord.linkgames.de/api/v3/widget/{your_id}?type=spotify_large"
+    src="https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=spotify_large"
     width="600"
     height="150"
     allowtransparency="true"
     frameborder="0"
 />
 <iframe
-    src="https://linkcord.linkgames.de/api/v3/widget/{your_id}?type=vsc"
+    src="https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=vsc"
     width="600"
     height="150"
     allowtransparency="true"
