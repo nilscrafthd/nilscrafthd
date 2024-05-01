@@ -46,3 +46,9 @@
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" height="30" width="30" alt="Eslint logo"/></code>
 
 **...and many others!**
+
+ <p align="center">
+  <a href="https://github.com/iqojs">
+    <img src="https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=spotify_large&theme=dark" />
+  </a>
+</p>
