@@ -1,0 +1,27 @@
+name: Update Spotify Widget
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Führe jede Stunde aus
+  push:
+    branches:
+      - main
+
+jobs:
+  update-widget:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Fetch widget data
+      run: curl -o widget.html https://linkgames.de/api/v3/widget/954851027188842526?type=spotify_large&theme=dark
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add widget.html
+        git commit -m "Update Spotify widget"
+        git push
