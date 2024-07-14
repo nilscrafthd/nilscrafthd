@@ -19,11 +19,9 @@ jobs:
       run: curl -o widget.html https://linkgames.de/api/v3/widget/954851027188842526?type=spotify_large
 
     - name: Commit and push changes
-      env:
-        ACTIONS_PAT: ${{ secrets.ACTIONS_PAT }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add widget.html
         git commit -m "Update Spotify widget"
-        git push https://$ACTIONS_PAT@github.com/${{ github.repository }}.git HEAD:main
+        git push
