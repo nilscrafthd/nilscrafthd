@@ -47,8 +47,6 @@
 
 **...and many others!**
 
- <p align="center">
-  <a href="https://github.com/iqojs">
-    <img src="https://linkcord.linkgames.de/api/v3/widget/954851027188842526?type=spotify_large&theme=dark" />
-  </a>
-</p>
+# Mein GitHub Profil
+
+[![Spotify Widget](widget.html)](https://linkgames.de/api/v3/widget/954851027188842526?type=spotify_large)
