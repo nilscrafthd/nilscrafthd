@@ -50,5 +50,6 @@
 # Mein Spotify Profil
 
 <a href="https://discord.com/users/954851027188842526">
- <img alt="Discord activity card" src="https://linkgames.de/api/v3/widget/954851027188842526?type=spotify_large" align="middle" />
+  <img alt="Discord activity card" src="https://linkgames.de/api/v3/widget/954851027188842526?type=spotify_large" align="middle" />
 </a>
+
