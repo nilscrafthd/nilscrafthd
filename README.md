@@ -49,4 +49,4 @@
 
 # Mein GitHub Profil
 
-[![Spotify Widget](widget.html)](https://linkgames.de/api/v3/widget/954851027188842526?type=spotify_large)
+![Spotify Widget](widget.html)
