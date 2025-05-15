@@ -46,7 +46,3 @@
 <code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" height="30" width="30" alt="Eslint logo"/></code>
 
 **...and many others!**
-
-# Mein Spotify Profil
-
-[![Discord activity card](https://linkgames.de/api/v3/widget/954851027188842526?type=spotify_large)](https://discord.com/users/954851027188842526)
