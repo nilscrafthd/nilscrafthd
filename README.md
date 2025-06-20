@@ -101,14 +101,14 @@ Thanks for reading – have a great day or night! Stay well ✌️
   <a href="https://discord.com/users/954851027188842526" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-NilsCraftHD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://twitter.com/GamerArmyL" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-@GamerArmyL-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/NilsCraftHD" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-NilsCraftHD-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://open.spotify.com/user/313f6kzmredixvc4ymhcscqcrpsq" target="_blank">
-    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-Nils%20on%20Air-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-NilsCraftHD-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@RobloxCraftHD" target="_blank">
-    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-RobloxCraftHD-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.youtube.com/@NilsCraftHD" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-NilsCraftHD-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
