@@ -64,7 +64,6 @@ Thanks for reading – have a great day or night! Stay well ✌️
 
 **🌐 Opinsel** – A Minecraft Citybuild Server
 > 1.21.x
-> 
 > Custom Texture Pack.
 
 ---
