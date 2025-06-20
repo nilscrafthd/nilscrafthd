@@ -63,8 +63,8 @@ Thanks for reading – have a great day or night! Stay well ✌️
 ### 🚧 Coming Soon
 
 **🌐 Opinsel** – A Minecraft Citybuild Server
-> 1.21.x
-> Custom Texture Pack
+> 1.21.x.
+> Custom Texture Pack.
 
 ---
 
