@@ -62,9 +62,9 @@ Thanks for reading – have a great day or night! Stay well ✌️
 
 ### 🚧 Coming Soon
 
-**🌐 Opinsel** – A creative opinion-sharing platform  
-> Unfiltered thoughts. Custom topics. Anonymous or open.  
-> Built with freedom & privacy in mind.
+**🌐 Opinsel** – A Minecraft Citybuild Server
+> 1.21.x
+> Custom Texture Pack
 
 ---
 
