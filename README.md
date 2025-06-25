@@ -122,5 +122,5 @@ Stay connected with what I’m doing, listening to, or working on — in real ti
 [![Discord Presence (Extra)](https://extra.linkgames.de//api/954851027188842526?gradient=81D4FA-4FC3F7-29B6F6-039BE5-0288D1-0277BD-01579B-003C8F-002B75&waveColor=0288D1&waveSpotifyColor=0288D1&theme=dark&imgStyle=square&showBanner=animated&animated=true&animatedDecoration=true&showDisplayName=true)](https://discord.com/users/954851027188842526)
 
 > 🧰 Use it yourself:  
-> [extra.linkgames.de](https://extra.linkgames.de) – rich presence card with animation, gradients, banners  
-> [basic.linkgames.de](https://basic.linkgames.de) – minimal, lightweight version for fast integration
+> [extra.linkgames.de](https://extra.linkgames.de) – rich presence card with animation, gradients, banners (used here)
+> [basic.linkgames.de](https://basic.linkgames.de) – minimal, lightweight version for fast integration 
